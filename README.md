@@ -7,7 +7,7 @@
   </p>
   
   # Виконання:
- Завдання 'head' — зберігати метадані документа
+ 'head' — Зберігає метадані документа
  ```
 <head>
     <meta charset="UTF-8">
@@ -17,11 +17,12 @@
 </head> 
   ```
   В body ми вписуємо вміст веб-сторінки (контенту), що відображається у вікні браузера.
- І з допомогою тегів, ми робиом потрібні записи:
+ І з допомогою тегів, ми робимо потрібні записи:
   <h3> Перша частина вікна:</h3>
   
   
    ```html
+  <body>
 <table align="center"  bordercolor="1"  width="1000">
         <tr>
          <td><b> <font size="5" color="black" face="Times New Roman">Усім привіт! </font></b></td>
@@ -55,12 +56,14 @@
            </tr>
        
                </table>
+    </body>
+</html>
 ```
   
   
   <h3 align="center"> Також додаю посилання на сам сайт: https://koshmak03.netlify.app/ </h3>
   
   <h3> Скрін роботи:<h3>
-  
-  <img src="https://i.ibb.co/3m18rMX/golovn.jpg" alt="golovn" border="0">
-
+  <p align="center">
+  <img  src="https://i.ibb.co/3m18rMX/golovn.jpg" alt="golovn" border="0">
+    </p>
